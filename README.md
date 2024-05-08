@@ -1,4 +1,3 @@
-#Tributary
 - 👋 Hi, I’m @T-nkale
 - 👀 I’m interested in everything about cars
 - 🌱 I’m currently learning software engineering
